@@ -258,12 +258,6 @@
     }
 }
 
-@media (min-width: 577px){
-    .davide {
-        display: none;
-    }
-}
-
 /*Mobile*/
 @media (max-width: 576px) {
     .logo {
