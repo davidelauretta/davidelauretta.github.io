@@ -239,7 +239,7 @@
 }
 
 /*Medium*/
-@media (min-width: 577px) {
+@media (min-width: 768px) {
     body {
         min-width: 100vh;
     }
@@ -255,6 +255,12 @@
     .header-text {
         min-height: 600px;
         padding-bottom: 10px;
+    }
+}
+
+@media (min-width: 577px){
+    .davide {
+        display: none;
     }
 }
 
